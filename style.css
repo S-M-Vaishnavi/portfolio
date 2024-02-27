@@ -834,6 +834,13 @@ footer a i{
     transform: translate(0);
 }
 
+#msg{
+    color: #61b752;
+    margin-top: -20px;
+    display: block;
+    margin-left: 46%;
+}
+
 
 /* break points */
 @media(max-width:991px) {
